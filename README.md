@@ -122,6 +122,9 @@ Este proyecto analiza el consumo eléctrico de un hogar utilizando datos de seri
 
 ---
 
+# Próximos Pasos
+-  Implementar las ideas de feature engineering temporal (lags) y probar un modelo como XGBoost o LightGBM. Es muy probable que con eso consigas mejorar el R² de 0.85 a más de 0.90 o 0.95.
+
 ## Licencia
 
 - **Base de datos:** Open Database License (ODbL).
